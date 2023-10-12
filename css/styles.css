@@ -1,3 +1,11 @@
+:root {
+    --white: #ffffff;
+    --black: #212121;
+    --primary: #ffc107;
+    --secondary: #0097a7;
+    --gray: #757575;
+}
+
 html {
     font-size: 62.5%;
 }
@@ -8,6 +16,6 @@ body {
     text-align: center;
     font-size: 3.8rem;
 }
-.title {
+.title span {
     font-size: 2rem;
 }
