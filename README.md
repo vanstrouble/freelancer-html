@@ -1,4 +1,4 @@
-# HTML Testing Project from scratch
+# Freelancer HTML Project from scratch
 <img src="https://img-c.udemycdn.com/course/750x422/5591246_ebc6_2.jpg" alt="Descripción de la imagen" >
 
 **HTML** (HyperText Markup Language) is the standard language used to create and structure content on web pages. It provides the structural foundation for web content, such as text, images, and links, through the use of tags and elements.
@@ -6,4 +6,4 @@
 
 ---
 ### About project
-This project is created from scratch with the purpose of practicing these technologies. The site is available for viewing: https://vanstrouble.github.io/test-static-html-project/
+This project is created from scratch with the purpose of practicing these technologies. The site is available for viewing in: https://vanstrouble.github.io/freelancer-html-project/
